@@ -10,7 +10,7 @@ Instructions for compile Android 4.3 for u8800pro
 4. Go inside that folder and paste the local_manifest.xml
 5. Go on terminal, cd to the folder which contains ROM(cm,aokp,pa...)
 6. And then : repo sync
-7. After repo sync all files will be set up on them folder for compile correctly any 4.3 version you want
+7. After repo sync all files will be set up on them correctly  folder for compile sucessfully any 4.3 version you want
 
 Made by Ivan and Herna
 
